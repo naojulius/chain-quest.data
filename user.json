@@ -19,6 +19,35 @@
 		},
 		"hero_level": 1,
 		"hero_class": "warrior",
-		"hero_faction": "light"
+		"hero_faction": "light", 
+	  	"hero_skills": [
+			{
+		"skill_name": "Force Field",
+		"skill_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/icons/artifact_f1_dawnseye.tres",
+		"skill_type": "defense",
+		"skill_class": "light",
+		"skill_animation": "forcefield",
+		"skill_effect": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/fx_defense.tres",
+		"skill_damage": 10
+	},
+			{
+		"skill_name": "Circle of Classification",
+		"skill_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/icons/artifact_f1_dawnseye.tres",
+		"skill_type": "attack",
+		"skill_class": "dark",
+		"skill_animation": "circleofdessication",
+		"skill_effect": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/f3_fx_circleofdessication.tres",
+		"skill_damage": 50
+	},
+	{
+		"skill_name": "Entropic Decay",
+		"skill_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/icons/artifact_f1_dawnseye.tres",
+		"skill_type": "attack",
+		"skill_class": "light",
+		"skill_animation": "entropicdecay",
+		"skill_effect": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/f3_fx_entropicdecay.tres",
+		"skill_damage": 50
+	},
+		]
 	}
 }
