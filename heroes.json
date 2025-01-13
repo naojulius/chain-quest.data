@@ -1,1 +1,193 @@
-
+{
+  "all": [
+	{
+		"hero_name": "3rd General",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_3rdgeneral.tres",
+		"hero_description": "A mighty warrior wielding a massive axe and shield. Known for his immense physical strength and unparalleled defense, he stands as a guardian of the realm. Three floating yellow fireballs signify his unstoppable power.",
+		"hero_story": "Once a renowned protector of the northern realms, the 3rd General was a symbol of unwavering strength and justice. Betrayed by those he once served, he was left broken and abandoned. But through sheer willpower, he rebuilt himself, mastering his battle techniques and honing his defenses to become an unstoppable force. With his massive shield and axe in hand, he now roams the lands, seeking vengeance against those who turned against him, while protecting the innocent with his unyielding resolve. His three floating yellow fireballs, the mark of his regained power, symbolize his unbreakable spirit.",
+		"stats": {
+			"hp": 100,
+			"attack": 70,
+			"defense": 90,
+			"magic_defense": 80,
+			"stamina": 95,
+			"intelligence": 70,
+			"agility": 75,
+			"accuracy": 85,
+			"evasion": 70,
+			"critical_chance": 30
+		},
+		"hero_level": 1,
+		"hero_class": "warrior",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Mrs AltGeneral",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_altgeneral.tres",
+		"hero_description": "A fierce and determined warrior, wielding a sword engulfed in fire and a medium shield. Known for her agility and fiery passion, she strikes swiftly with precision and power, leaving her enemies scorched by her flames.",
+		"hero_story": "Once a protector of the realm, Mrs AltGeneral stood as an unyielding force, fighting with fiery determination. Betrayed and abandoned by her comrades, she swore vengeance. Now, with a sword alight with infernal flames, she seeks justice. Her medium shield defends her with unmatched resilience. No enemy can withstand her fiery onslaught as she fights to protect the innocent and right the wrongs done to her. Her flame symbolizes the burning passion and rage that fuels her relentless pursuit of justice.",
+		"stats": {
+			"hp": 95,
+			"attack": 90,
+			"defense": 65,
+			"magic_defense": 70,
+			"stamina": 85,
+			"intelligence": 70,
+			"agility": 95,
+			"accuracy": 85,
+			"evasion": 85,
+			"critical_chance": 40
+		},
+		"hero_level": 1,
+		"hero_class": "warrior",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Arch Deacon",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_archdeacon.tres",
+		"hero_description": "A master of divine magic, Arch Deacon channels celestial power to smite enemies and protect allies. Cloaked in radiant light, he wields unparalleled magical prowess and unshakable faith, balancing offense and support in the heat of battle.",
+		"hero_story": "Once a humble monk devoted to the light, Arch Deacon ascended to mastery over divine magic after a vision of impending doom. Choosing to bear the burden of justice, he now fights to cleanse the land of corruption, wielding holy spells that can heal the wounded and smite the wicked. His unyielding resolve and radiant aura inspire hope in allies and fear in foes, embodying the purity and wrath of the heavens.",
+		"stats": {
+			"hp": 80,
+			"attack": 50,
+			"defense": 60,
+			"magic_defense": 90,
+			"stamina": 75,
+			"intelligence": 100,
+			"agility": 80,
+			"accuracy": 85,
+			"evasion": 70,
+			"critical_chance": 30
+		},
+		"hero_level": 1,
+		"hero_class": "sorcerer",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Aurora Lioness",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_auroralioness.tres",
+		"hero_description": "A majestic lion imbued with the divine light, Aurora Lioness roars with celestial power to inspire allies and terrify enemies. Her mastery over nature and light magic ensures balance and strength on the battlefield.",
+		"hero_story": "Aurora Lioness, once a guardian of the sacred glades, was chosen by the light to bring harmony to a fractured world. Her powerful roars echo across battlefields, rallying her companions and shaking foes to their core. With an unmatched connection to nature and radiant magic, she fights to preserve the balance of life, embodying the unyielding spirit of the divine.",
+		"stats": {
+			"hp": 85,
+			"attack": 60,
+			"defense": 65,
+			"magic_defense": 85,
+			"stamina": 80,
+			"intelligence": 90,
+			"agility": 75,
+			"accuracy": 80,
+			"evasion": 70,
+			"critical_chance": 35
+		},
+		"hero_level": 1,
+		"hero_class": "druid",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Azurite Lion",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_azuritelion.tres",
+		"hero_description": "A majestic blue lion with white fur, imbued with divine light and fierce fangs. Azurite Lion roars with celestial power, inspiring allies and striking fear into the hearts of enemies. A master of nature and light magic, he wields unparalleled strength and grace.",
+		"hero_story": "Born in the sacred glades of the northern realms, Azurite Lion was blessed by the divine light to become a symbol of hope and ferocity. His azure coat and radiant white mane are said to reflect the heavens themselves. With his razor-sharp fangs and a roar that shakes the earth, he battles to bring harmony to a chaotic world. Azurite Lion defends the innocent, strikes down evil, and balances the forces of nature with his unmatched prowess.",
+		"stats": {
+			"hp": 90,
+			"attack": 70,
+			"defense": 70,
+			"magic_defense": 80,
+			"stamina": 85,
+			"intelligence": 85,
+			"agility": 80,
+			"accuracy": 85,
+			"evasion": 75,
+			"critical_chance": 40
+		},
+		"hero_level": 1,
+		"hero_class": "druid",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Bast Champion",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_baastchampion.tres",
+		"hero_description": "A majestic blue lion with white fur, Bast Champion wields divine light and a powerful aura that shrouds his presence. Known for his unmatched stealth and deadly precision, he strikes from the shadows with unparalleled grace and ferocity.",
+		"hero_story": "Hailing from the sacred glades, Bast Champion was granted divine blessings to master the art of stealth and cunning. His azure coat gleams under the moonlight, and his radiant aura hides him from sight while empowering his allies. A silent predator, Bast Champion is a defender of the weak and a nightmare to his foes. With unmatched agility and precision, he brings swift justice while remaining unseen, embodying the balance of light and shadow.",
+		"stats": {
+			"hp": 85,
+			"attack": 75,
+			"defense": 65,
+			"magic_defense": 75,
+			"stamina": 80,
+			"intelligence": 90,
+			"agility": 95,
+			"accuracy": 90,
+			"evasion": 85,
+			"critical_chance": 50
+		},
+		"hero_level": 1,
+		"hero_class": "assassin",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Backline Reacher",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_backlinearcher.tres",
+		"hero_description": "A master archer with unparalleled precision, Backline Reacher strikes down targets from impossible distances. Swift and elusive, her arrows pierce through defenses, ensuring no enemy is safe, no matter how far they may be.",
+		"hero_story": "Born under the watchful gaze of the celestial stars, Backline Reacher honed her archery skills to perfection. Her ability to reach the most distant and well-guarded foes earned her the title of Backline Reacher. Blessed with agility and precision, she is both hunter and protector, a silent guardian who ensures her enemies never see their end coming. She roams the battlefield, targeting key threats with unmatched accuracy, turning the tide of any conflict with her skill and determination.",
+		"stats": {
+			"hp": 75,
+			"attack": 80,
+			"defense": 55,
+			"magic_defense": 70,
+			"stamina": 75,
+			"intelligence": 85,
+			"agility": 95,
+			"accuracy": 100,
+			"evasion": 80,
+			"critical_chance": 45
+		},
+		"hero_level": 1,
+		"hero_class": "archer",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Bromem K2",
+		"hero_resource":"res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_bromemk2.tres",
+		"hero_description": "A formidable tank warrior of light, Bromem K2 wields two massive flaming axes, one in each hand. With blazing yellow fire erupting from his shoulders, he charges into battle, unleashing fiery devastation while withstanding the fiercest assaults.",
+		"hero_story": "Forged in the fires of a celestial forge, Bromem K2 became the embodiment of unyielding strength and fiery resolve. As a protector of the realm, he wields his dual flaming axes to cleave through enemies, shielding allies with his unbreakable defense. The yellow fire on his shoulders burns brighter with his rage, signaling his unwavering commitment to justice and the obliteration of all darkness. Bromem K2's fiery onslaught and indomitable will make him a beacon of hope and destruction on the battlefield.",
+		"stats": {
+			"hp": 100,
+			"attack": 85,
+			"defense": 90,
+			"magic_defense": 75,
+			"stamina": 90,
+			"intelligence": 70,
+			"agility": 65,
+			"accuracy": 80,
+			"evasion": 60,
+			"critical_chance": 30
+		},
+		"hero_level": 1,
+		"hero_class": "warrior",
+		"hero_faction": "light"
+	},
+	{
+		"hero_name": "Build Common",
+		"hero_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_buildcommon.tres",
+		"hero_description": "A powerful mecha warrior equipped with a shining shield and sword, Build Common stands as an unyielding force of light. Combining advanced technology with divine energy, he defends the realm with precision and resilience.",
+		"hero_story": "Constructed in an ancient celestial forge, Build Common was created as the ultimate guardian. With a radiant shield capable of deflecting even the most powerful attacks and a glowing sword charged with light energy, he embodies the fusion of advanced engineering and divine purpose. Build Common's unwavering resolve and mechanical precision make him an impenetrable wall against darkness, a beacon of hope in the fight for justice and harmony.",
+		"stats": {
+			"hp": 95,
+			"attack": 75,
+			"defense": 85,
+			"magic_defense": 80,
+			"stamina": 85,
+			"intelligence": 75,
+			"agility": 70,
+			"accuracy": 85,
+			"evasion": 65,
+			"critical_chance": 25
+		},
+		"hero_level": 1,
+		"hero_class": "mecha",
+		"hero_faction": "light"
+	}
+]
+}
