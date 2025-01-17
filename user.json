@@ -5,7 +5,46 @@
 			"balance": 0.001,
 			"symbol": "TQC"
 		},
-		"hero" : {}
+		"hero" : {
+		"hero_name": "Bromem K2",
+		"hero_description": "A formidable tank warrior of light, Bromem K2 wields two massive flaming axes, one in each hand. With blazing yellow fire erupting from his shoulders, he charges into battle, unleashing fiery devastation while withstanding the fiercest assaults.",
+		"hero_story": "Forged in the fires of a celestial forge, Bromem K2 became the embodiment of unyielding strength and fiery resolve. As a protector of the realm, he wields his dual flaming axes to cleave through enemies, shielding allies with his unbreakable defense. The yellow fire on his shoulders burns brighter with his rage, signaling his unwavering commitment to justice and the obliteration of all darkness. Bromem K2's fiery onslaught and indomitable will make him a beacon of hope and destruction on the battlefield.",
+		"hero_skin": "res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_bromemk2.tres",
+		"hero_skills": [
+			{
+				"skill_name": "Claw Slash",
+				"skill_animation": "clawslash",
+				"skill_skin": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/fx_clawslash.tres",
+				"skill_class": "light",
+				"skill_type": "attack"
+			},
+			{
+				"skill_name": "Cross Slash",
+				"skill_animation": "crossslash",
+				"skill_skin": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/fx_crossslash.tres",
+				"skill_class": "light",
+				"skill_type": "attack"
+			},
+			{
+				"skill_name": "DEFFFENSE",
+				"skill_animation": "crossslash",
+				"skill_skin": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/fx_crossslash.tres",
+				"skill_class": "light",
+				"skill_type": "defense"
+			}
+		], 
+		"hero_stats": {
+				"attack": 10,
+				"defense": 5,
+				"health": 100,
+				"mana": 50,
+				"magic_attack": 8,
+				"magic_defense": 6,
+				"stamina": 20,
+				"intelligence": 12,
+				"agility": 15
+			}
+	}
 	}
 	
 }
