@@ -1,7 +1,10 @@
 {
-	"user_name": "Nao 😂 Julius",
-	"wallet": {
-		"balance": 0.001,
-		"symbol": "TQC"
+	"user": {
+		"user_name": "Nao😂 Julius",
+		"wallet": {
+			"balance": 0.001,
+			"symbol": "TQC"
+		},
 	}
+	
 }
