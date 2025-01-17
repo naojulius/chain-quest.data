@@ -1,53 +1,7 @@
 {
-  "user_name": "Nao Julius",
-  "user_hero": {
-		"hero_name": "Bromem K2",
-		"hero_resource":"res://addons/duelyst_animated_sprites/assets/spriteframes/units/f1_bromemk2.tres",
-		"hero_description": "A formidable tank warrior of light, Bromem K2 wields two massive flaming axes, one in each hand. With blazing yellow fire erupting from his shoulders, he charges into battle, unleashing fiery devastation while withstanding the fiercest assaults.",
-		"hero_story": "Forged in the fires of a celestial forge, Bromem K2 became the embodiment of unyielding strength and fiery resolve. As a protector of the realm, he wields his dual flaming axes to cleave through enemies, shielding allies with his unbreakable defense. The yellow fire on his shoulders burns brighter with his rage, signaling his unwavering commitment to justice and the obliteration of all darkness. Bromem K2's fiery onslaught and indomitable will make him a beacon of hope and destruction on the battlefield.",
-		"stats": {
-			"hp": 100,
-			"attack": 85,
-			"defense": 90,
-			"magic_defense": 75,
-			"stamina": 90,
-			"intelligence": 70,
-			"agility": 65,
-			"accuracy": 80,
-			"evasion": 60,
-			"critical_chance": 30
-		},
-		"hero_level": 1,
-		"hero_class": "warrior",
-		"hero_faction": "light", 
-	  	"hero_skills": [
-			{
-		"skill_name": "Force Field",
-		"skill_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/icons/artifact_f1_dawnseye.tres",
-		"skill_type": "defense",
-		"skill_class": "light",
-		"skill_animation": "forcefield",
-		"skill_effect": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/fx_defense.tres",
-		"skill_damage": 10
-	},
-			{
-		"skill_name": "Circle of Classification",
-		"skill_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/icons/artifact_f1_dawnseye.tres",
-		"skill_type": "attack",
-		"skill_class": "dark",
-		"skill_animation": "circleofdessication",
-		"skill_effect": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/f3_fx_circleofdessication.tres",
-		"skill_damage": 50
-	},
-	{
-		"skill_name": "Entropic Decay",
-		"skill_resource": "res://addons/duelyst_animated_sprites/assets/spriteframes/icons/artifact_f1_dawnseye.tres",
-		"skill_type": "attack",
-		"skill_class": "light",
-		"skill_animation": "entropicdecay",
-		"skill_effect": "res://addons/duelyst_animated_sprites/assets/spriteframes/fx/f3_fx_entropicdecay.tres",
-		"skill_damage": 50
-	},
-		]
+	"user_name": "Nao 😂 Julius",
+	"wallet": {
+		"balance": 0.001,
+		"symbol": "TQC"
 	}
 }
